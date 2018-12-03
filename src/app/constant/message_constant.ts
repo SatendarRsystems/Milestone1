@@ -1,0 +1,16 @@
+export default {
+    FALIURE : 'FALIURE',
+    ERROR : 'ERROR',
+    SUCESS : 'SUCESS',
+    INVALID_RESOURCE_ID : 'invalid resource id',
+    NONE : 'none',
+    DISCONNECTED : 'DISCONNECTED',
+    FAILED : 'FAILED',
+    READY : 'READY',
+    RETRYING : 'RETRYING',
+    FAILEDVERSION : 'FAILEDVERSION',
+    NOTAVAILABLE : 'NOTAVAILABLE',
+    UNABLE_TO_JOIN : 'Unable to join the meeting',
+    USERNAME_ERROR_MSG : 'Please enter valid alphanumeric characters at user name.',
+    MEETING_ROOM_ERROR_MSG : 'Please enter valid alphanumeric characters at meeting id.',
+};
